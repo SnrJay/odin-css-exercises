@@ -1,0 +1,18 @@
+.odd-number {
+    background-color: #ffb6b6;
+    font-family: DejaVu Sans, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second-el {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.font {
+    font-size: 24px;
+}
+
+#forth-el {
+    background-color: #a6ff9e;
+    font-weight: bold;
+}
